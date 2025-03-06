@@ -1,2 +1,2 @@
 # DevTest
-DevOps traning repro
+DevOps training repro
